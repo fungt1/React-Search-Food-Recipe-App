@@ -1,15 +1,15 @@
 # React Search Food Recipe App
 PURPOSE: React Project that uses React.js to show a nice represenation of the weather.
 
-This a simple React Weahter Application that allows you to look up any exisiting city around the world to find out about their weather. The service that provided me the api's for the weather was OpenWeatherMap. Simply enter a city and country and it will show you temperature, area, conditions, and other useful information. NOTE: You can abbreviate the country meaning United States could also input as us or US in the search box. Future implmentation would be adding a hourly forcast of your current weather search. You can find my website here https://obscure-cove-18623.herokuapp.com/.
+This is a simple food recipe search app. Simply type in a specific type of food you want to eat and it will come up with different recipes you can make out of it. The food recipe apis are coming out of Edamam, a food recipe website with apis of different recipes around the web. This was also done with React.js and some other small libraries to enhance this website. NOTE: Future implementations would be adding a cart counter to save the recipes that really stick out to you. And another feature of adding your own recipes. You can find my website here https://foodrecipesearchapp.herokuapp.com/.
 
 Front-end: React.js
 
-Services: OpenWeatherMap
+Services: Edamam
 
 Languages being used: React.js, CSS
 
-Other Libraries/Frameworks: Bootstrap, react react-navbar, react-dom, reacths-popup
+Other Libraries/Frameworks: react-dom, reactjs-popup, uuid
 
 Server: Heroku
 
